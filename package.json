@@ -1,14 +1,17 @@
 {
   "name": "fetcher",
   "version": "1.0.0",
-  "description": "",
+  "description": "A small wrapper for fetch() method",
   "main": "index.js",
   "scripts": {
-    "lint:init": "eslint --init",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["fetch", "fetcher"],
+  "author": "Ivan Borovyk",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saref111/fetcher.git"
+  },
   "license": "ISC",
   "devDependencies": {
     "eslint": "^7.32.0",
